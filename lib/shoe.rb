@@ -10,8 +10,5 @@ class Shoe
     puts "Your shoe is as good as new!"
     @condition = condition
   end
-	  def name=(new_name)
-	    @name = new_name
-	  end
 
 end
